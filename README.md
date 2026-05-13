@@ -4,6 +4,7 @@
 
 ### A passionate AI-Engineer From Bangladesh
 
+<img src="https://github.com/sajedulislamsazid.png" alt="Sajedul Islam" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
