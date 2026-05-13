@@ -114,20 +114,10 @@ and developing frontend projects by applying both my technical knowledge and cre
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajedulislamsazid&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
+
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
-<!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
 
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 ![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/https://leetcode.com/u/iCIT8IudS4/?theme=dark)
@@ -136,11 +126,7 @@ and developing frontend projects by applying both my technical knowledge and cre
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sajedulislamsazid&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
+
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 </div>
