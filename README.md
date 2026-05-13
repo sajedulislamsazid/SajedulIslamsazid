@@ -118,13 +118,8 @@ and developing frontend projects by applying both my technical knowledge and cre
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/https://leetcode.com/u/iCIT8IudS4/?theme=dark)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sajedulislamsazid&theme=onedark&column=7&margin-w=15&margin-h=15)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sajedulislamsazid&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
